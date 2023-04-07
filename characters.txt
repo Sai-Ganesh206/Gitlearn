@@ -2,3 +2,7 @@ naruto
 kakashi
 saskue
 
+mob
+reigen
+ritsu
+
